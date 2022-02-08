@@ -6,8 +6,8 @@
 - 📫 Você pode entrar em contato comigo pelo telefone (11 9 4949-4847) ou pelo e-mail (caiolins.magno@hotmail.com).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiolins123&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=caiolins123&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiolins123&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolins123" /> 
 </a>
