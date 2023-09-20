@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é Caio Lins, tenho 20 anos e sou um entusiasta tecnológico.
-- 👔 Atualmente sou desenvolvedor WEB Full Stack (utilizando o framework Django).
+- 👔 Atualmente sou desenvolvedor WEB Full Stack (utilizando o framework Laravel).
 - 👀 Estou interessado em ingressar em projetos que me tragam novos conhecimentos e desafios.
 - 🌱 Atualmente estou estudando de forma mais profunda desenvolvimento mobile utilizando Swift
 - 💞️ Procuro em cada equipe que trabalho proporcionar um ambiente favorável ao aprendizado mútuo de todos os integrantes.
