@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é Caio Lins, tenho 20 anos e sou um entusiasta tecnológico.
+## 👋 Olá, meu nome é Caio Lins, tenho 21 anos e sou um entusiasta tecnológico.
 - 👔 Atualmente sou desenvolvedor WEB Full Stack (utilizando o framework Django).
 - 🌱 Atualmente estou estudando de forma mais profunda desenvolvimento mobile utilizando Swift
 - 📫 Você pode entrar em contato comigo pelo telefone (11 9 4949-4847) ou pelo e-mail (caiolins.magno@hotmail.com).
